@@ -9,7 +9,7 @@
 
 ## Introduction
 <p > 
-  This is where I share my solutions to various challenges: problem-solving, competitive programming, CTFs, and maybe some math exercises.
+  This is where I share my solutions to various challenges: problem solving, competitive programming, CTFs, and maybe some math exercises.
   I hope you learn something :).
   </b>
 <p/>
