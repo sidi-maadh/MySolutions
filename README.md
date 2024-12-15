@@ -5,6 +5,7 @@
   </b>
 <p/>
 
+<br/>
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -12,6 +13,39 @@
 - [Contributions](#contributions)
 - [Useful Resources](#useful-resources)
 
+<br/>
+
+## Problems by Category
+<p>
+This section groups resolved issues into different categories. Each category contains a list of issues with links to the corresponding solutions.</p>
+
+### Problem Solving
+
+- []() (LeetCode)
+- []() (CodeForces)
+
+### Competitive Programming
+
+- []() (CP)
+- []() (CP)
+
+### CTFs
+
+- []() (CTFs)
+- []() (CTFs)
+
+### Mathematics 
+
+- []() (Math)
+- []() (Math)
+
+<br/>
+
+![Build Status](https://img.shields.io/github/actions/workflow/status/username/repo-name/test.yml)  
+![Stars](https://img.shields.io/github/stars/username/repo-name)  
+![License](https://img.shields.io/github/license/username/repo-name)
+
+<br/>
 
 ## Useful Resources
 
