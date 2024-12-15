@@ -1,11 +1,23 @@
-# MySolutions
-
+## Introduction
 <p > 
-  <b> Hi There👋, <br/>
   This is where I share my solutions to various challenges: problem-solving, competitive programming, CTFs, and maybe some math exercises. <br/>
-  I hope you learn something :)
+  I hope you learn something :).
   </b>
 <p/>
+
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Problems by Category](#problems-by-category)
+- [Contributions](#contributions)
+- [Useful Resources](#useful-resources)
+
+
+## Useful Resources
+- [Introduction to Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+- [CTF Tutorials](https://ctftime.org/)
+- [Visualization of Algorithms](https://visualgo.net/en)
+
 
 <p align="center">
    	<b>
