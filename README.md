@@ -2,9 +2,9 @@
 
 # My Solutions
 
-[![Stars](https://img.shields.io/github/stars/sidichrifahmedmaadh/github-activity-generator?style=social)](https://github.com/sidichrifahmedmaadh/github-activity-generator/stargazers)
+[![Stars](https://img.shields.io/github/stars/sidi-maadh/github-activity-generator?style=social)](https://github.com/sidi-maadh/github-activity-generator/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Author](https://img.shields.io/badge/Author-Sidi%20Maadh-blue)](https://github.com/sidichrifahmedmaadh)
+[![Author](https://img.shields.io/badge/Author-Sidi%20Maadh-blue)](https://github.com/sidi-maadh)
 </div>
 
 ## Introduction
@@ -95,7 +95,7 @@ This section groups resolved issues into different categories. Each category con
 <br/><br/>
 <p align="center">
    	<b>
-		If you like it, give the <a href="https://github.com/sidichrifahmedmaadh/MySolvings"> project</a>  a star on Github and 
+		If you like it, give the <a href="https://github.com/sidi-maadh/MySolutions"> project</a>  a star on Github and 
 		share with your friends!! I will be happy with it! ❤️
 	</b>
 </p>
