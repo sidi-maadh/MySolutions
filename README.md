@@ -2,7 +2,7 @@
 
 <p > 
   <b> Hi There👋, <br/>
-  Here I put my solvings to challenges I do, Problem Solving, Competitive Programming, CTFs, and maybe maths exercices. <br/>
+  This is where I share my solutions to various challenges: problem-solving, competitive programming, CTFs, and maybe some math exercises. <br/>
   I hope you learn something :)
   </b>
 <p/>
