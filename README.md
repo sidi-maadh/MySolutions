@@ -23,26 +23,26 @@
 
 <br/>
 
-## 1️⃣ Problems by Category
+## Problems by Category
 <p>
 This section groups resolved issues into different categories. Each category contains a list of issues with links to the corresponding solutions.</p>
 
-### 2️⃣ Problem Solving
+### 1️⃣ Problem Solving
 
 - []() (LeetCode)
 - []() (CodeForces)
 
-### 3️⃣ Competitive Programming
+### 2️⃣ Competitive Programming
 
 - []() (CP)
 - []() (CP)
 
-### 4️⃣ CTFs
+### 3️⃣ CTFs
 
 - []() (CTFs)
 - []() (CTFs)
 
-### 5️⃣ Mathematics 
+### 4️⃣ Mathematics 
 
 - []() (Math)
 - []() (Math)
