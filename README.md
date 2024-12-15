@@ -28,7 +28,7 @@
 <p>
 This section groups resolved issues into different categories. Each category contains a list of issues with links to the corresponding solutions.</p>
 
-### <img src="https://media.giphy.com/media/sUtSoZBvnOjqg3rMk9/giphy.gif?cid=790b7611sd21cpwb8bv3f9y5nx9uf3rpwozszbvb1vf578dm&ep=v1_stickers_search&rid=giphy.gif&ct=s" width =55px> Problem Solving
+### <img src="https://media.giphy.com/media/mpn9ui0INC6RvgX4wJ/giphy.gif?cid=790b76113v79tj1zvabbx3ehkiqo8xo73dmym71vgop7uagq&ep=v1_stickers_search&rid=giphy.gif&ct=s" width =55px> Problem Solving
 
 - []() (LeetCode)
 - []() (CodeForces)
