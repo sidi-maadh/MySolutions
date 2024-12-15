@@ -53,6 +53,8 @@
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 - [Rustlings (to learn Rust)](https://github.com/rust-lang/rustlings)
 
+
+<br/><br/>
 <p align="center">
    	<b>
 		If you like it, give the <a href="https://github.com/sidichrifahmedmaadh/MySolvings"> project</a>  a star on Github and 
