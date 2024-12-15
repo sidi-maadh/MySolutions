@@ -14,10 +14,44 @@
 
 
 ## Useful Resources
-- [Introduction to Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
-- [CTF Tutorials](https://ctftime.org/)
-- [Visualization of Algorithms](https://visualgo.net/en)
 
+### Algorithms and data structures
+- [Big-O Cheat Sheet](https://www.bigoheatsheet.com/)
+- [Algorithms, Part I (Princeton - Coursera)](https://www.coursera.org/learn/algorithms-part1)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+- [Visualization of Algorithms](https://visualgo.net/en)
+- [PathFinding Visualizer](https://qiao.github.io/PathFinding.js/visual/)
+
+### Competitive programming
+- [Introduction to Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+- [Codeforces - Beginner's Guide](https://codeforces.com/blog/entry/62690)
+- [CP-Algorithms (Competitive Programming Algorithms)](https://cp-algorithms.com/)
+- [Introduction to Competitive Programming (HackerEarth)](https://www.hackerearth.com/practice/)
+- [Project Euler](https://projecteuler.net/)
+
+### CTFs and Security
+- [CTF Tutorials](https://ctftime.org/)
+- [OverTheWire: Wargames (Linux, Network Security)](https://overthewire.org/wargames/)-[TryHackMe](https://tryhackme.com/)
+- [PicoCTF (Beginner Challenges)](https://picoctf.org/)
+- [Awesome CTF (Resource Collection)](https://github.com/apsdehal/awesome-ctf)
+
+### Mathematics and theory
+- [Mathematics for Computer Science (MIT OpenCourseWare)](https://ocw.mit.edu/courses/mathematics-for-computer-science/)
+- [Introduction to Graph Theory (GeeksforGeeks)](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+- [Interactive Mathematical Explorations (Desmos)](https://www.desmos.com/)
+- [Open Problems in Mathematics (Project Open Problems)](https://openproblems.mathhub.info/)
+
+### Tools and Practices
+- [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/ )
+- [Excalidraw (collaborative drawing for diagrams algorithms)](https://excalidraw.com/)
+- [Regex101 (learn regular expressions)](https://regex101.com/)
+- [GitHub Actions Documentation (to automate workflows)](https://docs.github.com/en/actions)
+
+### Languages ​​and technologies
+- [Python Tutor (code execution visualization)](https://pythontutor.com/)
+- [C++ STL Cheatsheet](https://cplusplus.com/reference/stl/)
+- [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
+- [Rustlings (to learn Rust)](https://github.com/rust-lang/rustlings)
 
 <p align="center">
    	<b>
