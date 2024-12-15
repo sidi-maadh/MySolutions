@@ -1,4 +1,4 @@
-# MySolvings
+# MySolutions
 
 <p > 
   <b> Hi There👋, <br/>
