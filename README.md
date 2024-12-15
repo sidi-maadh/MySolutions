@@ -16,7 +16,7 @@
 
 <br/>
 
-## Table of Contents
+## <img src = "https://img.icons8.com/?size=100&id=I0BvOX1ZPgbB&format=png&color=000000" width = 40px> Table of Contents
 - [Introduction](#introduction)
 - [Problems by Category](#problems-by-category)
 - [Contributions](#contributions)
