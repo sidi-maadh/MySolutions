@@ -1,5 +1,5 @@
 <div align="center">
-##
+## My Solutions
 
 [![Stars](https://img.shields.io/github/stars/sidichrifahmedmaadh/github-activity-generator?style=social)](https://github.com/sidichrifahmedmaadh/github-activity-generator/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
