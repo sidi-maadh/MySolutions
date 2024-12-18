@@ -2,5 +2,5 @@
 
 ### [CodeWars](https://codewars.com)
 
-- [Number climber](https://www.codewars.com/kata/559760bae64c31556c00006b) ([ Solution ](two_sum.py))
+- [Multiplication simple](https://www.codewars.com/kata/583710ccaa6717322c000105) ([ Solution ](multiplication_simple.cpp))
 
