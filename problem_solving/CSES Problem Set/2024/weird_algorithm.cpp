@@ -4,8 +4,7 @@ using namespace std;
 int main() {
 
     long long n ;
-    
-    cout << "Give a positive integer : " ;
+
     cin >> n ;
 
     while (true) {
