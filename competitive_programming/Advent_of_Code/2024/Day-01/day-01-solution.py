@@ -4,7 +4,7 @@ import re
 def part1():
     lines = []
 
-    with open("input.txt") as file:
+    with open("input_data.txt") as file:
         lines = file.readlines()
 
     first_list = []
@@ -24,14 +24,14 @@ def part1():
     for i in range(len(first_list)):
         total += abs(first_list[i] - second_list[i])
 
-    print(total)
+    retrun total
 
 
 # --- Part Two ---
 def part2():
     lines = []
 
-    with open("input.txt") as file:
+    with open("input_data.txt") as file:
         lines = file.readlines()
 
     location_list = []
@@ -52,10 +52,10 @@ def part2():
         if frequency_map.get(location_list[i], 0) != 0:
             similarity_score += location_list[i] * frequency_map[location_list[i]]
 
-    print(similarity_score)
+    retrun similarity_score
 
 
 if __name__ == "__main__":
 
-    part1() 
-    part2()
+    print (f"Part One : { part1() }")
+    print (f"Part Two : { part2() }")
