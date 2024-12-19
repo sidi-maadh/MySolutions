@@ -7,7 +7,7 @@
 - [Is n divisible by x and y ?](https://www.codewars.com/kata/5545f109004975ea66000086) ([ Solution ](n_divisible_by_x_and_y.cpp))
 - [Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe) ([ Solution ](even_or_odd.cpp))
 - [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) ([ Solution ](reversed_strings.cpp))
-- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
+- [Convert a Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd) ([ Solution ](.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
