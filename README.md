@@ -30,7 +30,7 @@ This section groups resolved issues into different categories. Each category con
 
 ### <img src="https://media.giphy.com/media/mpn9ui0INC6RvgX4wJ/giphy.gif?cid=790b76113v79tj1zvabbx3ehkiqo8xo73dmym71vgop7uagq&ep=v1_stickers_search&rid=giphy.gif&ct=s" width =55px> Problem Solving
 
-- []() (LeetCode)
+- [Bit Counting](problem_solving/CodeWars/2024/bit_counting.cpp) (CodeWars)
 - []() (CodeForces)
 
 ### <img src = "https://i.ibb.co/t3nQqD4/CP-PS.gif" width = 45px> Competitive Programming
