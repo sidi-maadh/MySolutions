@@ -1,6 +1,6 @@
 <div align="center">
 
-# My Solutions
+# My Solutions Templates
 
 [![Stars](https://img.shields.io/github/stars/sidi-maadh/github-activity-generator?style=social)](https://github.com/sidi-maadh/github-activity-generator/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -8,11 +8,8 @@
 </div>
 
 ## Introduction
-<p > 
-  This is where I share my solutions to various challenges: problem solving, competitive programming, CTFs, and maybe some math exercises.
-  I hope you learn something :).
-  </b>
-<p/>
+#### This is the templates I use for My Solutions, I have created this repository to keep track of my templates and to share them with others. I will keep updating this repository with new templates as I learn through the competitive programming journey. I hope you learn something :).
+
 
 <br/>
 
