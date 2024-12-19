@@ -9,3 +9,5 @@
 - [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) ([ Solution ](reversed_strings.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
+- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
+- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
