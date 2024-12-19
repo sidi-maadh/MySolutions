@@ -35,7 +35,7 @@ This section groups resolved issues into different categories. Each category con
 
 ### <img src = "https://i.ibb.co/t3nQqD4/CP-PS.gif" width = 45px> Competitive Programming
 
-- [Advent Of Code 2024](competitive_programming/Advent_of_Code/2024) (Advent Of Code)
+- [Advent of Code 2024](competitive_programming/Advent_of_Code/2024) (Advent Of Code)
 - []() (CP)
 
 ### <img src = "https://media.giphy.com/media/J5B00esp0BoiCrqdCe/giphy.gif?cid=790b7611vyc2bryk6dc99zu1jg346s10oseflwlrf332f5o3&ep=v1_stickers_search&rid=giphy.gif&ct=s" width = 40px> CTFs
