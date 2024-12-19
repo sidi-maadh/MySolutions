@@ -72,7 +72,7 @@ This section groups resolved issues into different categories. Each category con
 - [Introduction to Competitive Programming (HackerEarth)](https://www.hackerearth.com/practice/)
 - [Project Euler](https://projecteuler.net/)
 
-### <img src = "https://i.ibb.co/f2nfwgG/CTF.png" width = 35px> CTFs and Security
+### <img src = "https://i.ibb.co/f2nfwgG/CTF.png" width = 35px>  CTFs and Security
 - [CTF Tutorials](https://ctftime.org/)
 - [OverTheWire: Wargames (Linux, Network Security)](https://overthewire.org/wargames/)-[TryHackMe](https://tryhackme.com/)
 - [PicoCTF (Beginner Challenges)](https://picoctf.org/)
