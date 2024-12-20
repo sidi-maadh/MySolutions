@@ -2,6 +2,11 @@
 
 # My Solutions Templates
 
+![GitHub Repo stars](https://img.shields.io/github/stars/sidi-maadh/MySolutions?style=for-the-badge&logo=github&labelColor=488207&color=55960c)
+![GitHub watchers](https://img.shields.io/github/watchers/sidi-maadh/MySolutions?style=for-the-badge&logo=github&label=Views&labelColor=000000&color=2F4F4F)
+![GitHub License](https://img.shields.io/github/license/sidi-maadh/MySolutions?style=for-the-badge)
+
+
 [![Stars](https://img.shields.io/github/stars/sidi-maadh/github-activity-generator?style=social)](https://github.com/sidi-maadh/github-activity-generator/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Author](https://img.shields.io/badge/Author-Sidi%20Maadh-blue)](https://github.com/sidi-maadh)
