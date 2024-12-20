@@ -2,9 +2,8 @@
 
 # My Solutions Templates
 
-![GitHub Repo stars](https://img.shields.io/github/stars/sidi-maadh/MySolutions?style=for-the-badge&logo=github&labelColor=488207&color=55960c)
-![GitHub watchers](https://img.shields.io/github/watchers/sidi-maadh/MySolutions?style=for-the-badge&logo=github&label=Views&labelColor=000000&color=2F4F4F)
-![GitHub License](https://img.shields.io/github/license/sidi-maadh/MySolutions?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/sidi-maadh/MySolutions?style=for-the-badge&logo=github&label=REPOSITORY%20STARS&labelColor=488207&color=55960c)
+![GitHub watchers](https://img.shields.io/github/watchers/sidi-maadh/MySolutions?style=for-the-badge&logo=github&label=REPOSITORY%20Views&labelColor=1155ba&color=236ad3)
 
 </div>
 
@@ -47,12 +46,6 @@ This section groups resolved issues into different categories. Each category con
 
 <br/>
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/username/repo-name/test.yml)  
-![Stars](https://img.shields.io/github/stars/username/repo-name)  
-![License](https://img.shields.io/github/license/username/repo-name)
-
-<br/>
-
 ## Useful Resources
 
 ### <img src="https://img.icons8.com/?size=100&id=rM03addOSa95&format=png&color=000000" width=45px>  Algorithms and data structures
@@ -92,7 +85,7 @@ This section groups resolved issues into different categories. Each category con
 <br/><br/>
 <p align="center">
    	<b>
-		If you like it, give the <a href="https://github.com/sidi-maadh/MySolutions"> project</a>  a star on Github and 
+		If you like it, give the <a href="https://github.com/sidi-maadh/MySolutions"> project repository</a>  a star on Github and 
 		share with your friends!! I will be happy with it! ❤️
 	</b>
 </p>
