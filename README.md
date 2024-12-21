@@ -8,7 +8,7 @@
 </div>
 
 ## Introduction
-This is the templates I use for My Solutions, I have created this repository to keep track of my templates and to share them with others. I will keep updating this repository with new templates as I learn through the programming journey. I hope you learn something :).
+This is the templates I use for my solutions, I have created this repository to keep track of my solutions and to share them with others. I will keep updating this repository with new templates as I learn through the programming journey. I hope you learn something :).
 
 
 <br/>
