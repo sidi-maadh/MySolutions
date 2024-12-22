@@ -9,6 +9,6 @@
 - [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018) ([ Solution ](reversed_strings.cpp))
 - [Convert a Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd) ([ Solution ](convert_boolean_to_string.cpp))
 - [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4) ([ Solution ](bit_counting.cpp))
-- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
+- [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) ([ Solution ](student's_einal_grade.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
