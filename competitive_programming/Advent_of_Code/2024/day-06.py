@@ -52,11 +52,11 @@ def get_guard_span(new_obstacle=None):
         states.add(new_state)
     return False, visited
 
-# part 1
+# -- Part One --
 visited = get_guard_span()[1]
 print(f"Part One : {len(visited)}")
 
-# part 2
+# -- Part Two --
 result = 0
 obstacle_candidates = visited - {start}
 for obstacle in obstacle_candidates:
