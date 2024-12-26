@@ -10,5 +10,5 @@
 - [Convert a Boolean to a String](https://www.codewars.com/kata/551b4501ac0447318f0009cd) ([ Solution ](convert_boolean_to_string.cpp))
 - [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4) ([ Solution ](bit_counting.cpp))
 - [Student's Final Grade](https://www.codewars.com/kata/5ad0d8356165e63c140014d4) ([ Solution ](student's_final_grade.cpp))
-- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
+- [Price of Mangoes](https://www.codewars.com/kata/57a77726bb9944d000000b06) ([ Solution ](price_of_mangoes.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
