@@ -17,3 +17,5 @@
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
+- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
+- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
