@@ -15,7 +15,7 @@
 - [Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) ([ Solution ](invert_values.cpp))
 - [Remove exclamation marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e) ([ Solution ](remove_exclamation_marks.cpp))
 - [Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989) ([ Solution ](find_maximum_and_minimum.cpp))
-- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
+- [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) ([ Solution ](multiply.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
