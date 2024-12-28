@@ -21,6 +21,7 @@
 - [Convert a String to a Number](https://www.codewars.com/kata/544675c6f971f7399a000e79) ([ Solution ](convert_string_to_number.cpp)
 - [Remove First and Last Character](https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0) ([ Solution ](remove_first_and_last_character.cpp)
 - [String repeat](https://www.codewars.com/kata/57a0e5c372292dd76d000d7e) ([ Solution ](string_repeat.cpp)
+- [Remove String Spaces](https://www.codewars.com/kata/57eae20f5500ad98e50002c5) ([ Solution ](remove_string_spaces.cpp)
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp)
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp)
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp)
