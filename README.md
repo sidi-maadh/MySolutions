@@ -22,7 +22,7 @@
 <br/>
 
 ## Problems by Templates
-### This section groups resolved issues into different cemplates. Each template contains a list of issues with links to the corresponding solutions.
+### This section groups resolved issues into different templates. Each template contains a list of issues with links to the corresponding solutions.
 
 ### <img src="https://media.giphy.com/media/mpn9ui0INC6RvgX4wJ/giphy.gif?cid=790b76113v79tj1zvabbx3ehkiqo8xo73dmym71vgop7uagq&ep=v1_stickers_search&rid=giphy.gif&ct=s" width =55px> Problem Solving
 
