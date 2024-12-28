@@ -15,15 +15,15 @@ This is the templates I use for my solutions, I have created this repository to 
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Problems by Category](#problems-by-category)
+- [Problems by Templates](#problems-by-templates)
 - [Contributions](#contributions)
 - [Useful Resources](#useful-resources)
 
 <br/>
 
-## Problems by Category
+## Problems by Templates
 <p>
-This section groups resolved issues into different categories. Each category contains a list of issues with links to the corresponding solutions.</p>
+This section groups resolved issues into different cemplates. Each template contains a list of issues with links to the corresponding solutions.</p>
 
 ### <img src="https://media.giphy.com/media/mpn9ui0INC6RvgX4wJ/giphy.gif?cid=790b76113v79tj1zvabbx3ehkiqo8xo73dmym71vgop7uagq&ep=v1_stickers_search&rid=giphy.gif&ct=s" width =55px> Problem Solving
 
