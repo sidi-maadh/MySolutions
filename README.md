@@ -8,7 +8,7 @@
 </div>
 
 ## Introduction
-This is the templates I use for my solutions, I have created this repository to keep track of my solutions and to share them with others. I will keep updating this repository with new templates as I learn through the computer science journey. I hope you learn something :).
+### This is the templates I use for my solutions, I have created this repository to keep track of my solutions and to share them with others. I will keep updating this repository with new templates as I learn through the computer science journey. I hope you learn something :).
 
 
 <br/>
@@ -22,8 +22,7 @@ This is the templates I use for my solutions, I have created this repository to 
 <br/>
 
 ## Problems by Templates
-<p>
-This section groups resolved issues into different cemplates. Each template contains a list of issues with links to the corresponding solutions.</p>
+### This section groups resolved issues into different cemplates. Each template contains a list of issues with links to the corresponding solutions.
 
 ### <img src="https://media.giphy.com/media/mpn9ui0INC6RvgX4wJ/giphy.gif?cid=790b76113v79tj1zvabbx3ehkiqo8xo73dmym71vgop7uagq&ep=v1_stickers_search&rid=giphy.gif&ct=s" width =55px> Problem Solving
 
@@ -45,9 +44,12 @@ This section groups resolved issues into different cemplates. Each template cont
 
 - []() `Math`
 
+
+
 <br/>
 
 ## Useful Resources
+### This template brings together a diverse set of resources to improve your skills and knowledge in several areas.
 
 ### <img src="https://img.icons8.com/?size=100&id=rM03addOSa95&format=png&color=000000" width=45px>  Algorithms and data structures
 - [Big-O Cheat Sheet](https://www.bigoheatsheet.com/)
