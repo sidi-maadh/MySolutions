@@ -14,7 +14,7 @@
 - [Quarter of the year](https://www.codewars.com/kata/5ce9c1000bab0b001134f5af) ([ Solution ](quarter_of_the_year.cpp))
 - [Invert values](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad) ([ Solution ](invert_values.cpp))
 - [Remove exclamation marks](https://www.codewars.com/kata/57a0885cbb9944e24c00008e) ([ Solution ](remove_exclamation_marks.cpp))
-- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
+- [Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989) ([ Solution ](find_maximum_and_minimum.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
