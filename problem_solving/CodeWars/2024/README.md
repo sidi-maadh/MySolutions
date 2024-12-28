@@ -17,5 +17,5 @@
 - [Find Maximum and Minimum Values of a List](https://www.codewars.com/kata/577a98a6ae28071780000989) ([ Solution ](find_maximum_and_minimum.cpp))
 - [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) ([ Solution ](multiply.cpp))
 - [Keep Hydrated](https://www.codewars.com/kata/582cb0224e56e068d800003c) ([ Solution ](keep_hydrated.cpp))
-- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
+- [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078) ([ Solution ](beginner_reduce_but_grow.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
