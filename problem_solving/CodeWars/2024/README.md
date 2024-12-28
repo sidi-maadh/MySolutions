@@ -18,4 +18,4 @@
 - [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004) ([ Solution ](multiply.cpp))
 - [Keep Hydrated](https://www.codewars.com/kata/582cb0224e56e068d800003c) ([ Solution ](keep_hydrated.cpp))
 - [Beginner - Reduce but Grow](https://www.codewars.com/kata/57f780909f7e8e3183000078) ([ Solution ](beginner_reduce_but_grow.cpp))
-- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
+- [Convert a String to a Number](https://www.codewars.com/kata/544675c6f971f7399a000e79) ([ Solution ](convert_string_to_number.cpp)
