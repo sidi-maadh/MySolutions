@@ -49,7 +49,9 @@
 
 
 ## Contributions
-<h4>  Contributions are welcome! Feel free to open an issue or submit a pull request if you have a way to improve this project. Make sure your request is meaningful and you have tested the app locally before submitting a pull request. </h4> 
+<h4>  Contributions are welcome! Feel free to open an issue or submit a pull request if you have a way to improve this project. Make sure your request is meaningful and you have tested the app locally before submitting a pull request. 
+Refer to [CONTRIBUTIONS.md](/CONTRIBUTIONS.md) for more details on contributing, installing requirements, and running the application.
+</h4> 
 
 
 <br/>
