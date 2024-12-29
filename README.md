@@ -98,7 +98,7 @@
 <h3>If you like it, give the <a href="https://github.com/sidi-maadh/MySolutions"> project repository</a>  a ⭐ on Github and share with your friends!! </h2>
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEFi0fMxf7g9QnEqdNG0i8Q?style=for-the-badge&logo=youtube&labelColor=red&link=https%3A%2F%2Fyoutube.com%2F%40chinguetech%3Fsi%3DwqajaclTrYqITcjQ)
-![GitHub followers](https://img.shields.io/github/followers/sidi-maadh?style=for-the-badge&logo=github&labelColor=000000&color=000000&link=https%3A%2F%2Fgithub.com%2Fsidi-maadh)
+![GitHub followers](https://img.shields.io/github/followers/sidi-maadh?style=for-the-badge&logo=github&labelColor=000000&color=000000&link=https%3A%2F%2Fgithub.com%2Fsidi-maadh%3Ftab%3Dfollowers)
 
 
 <br/>
