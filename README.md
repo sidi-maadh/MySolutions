@@ -7,7 +7,7 @@
 
 </div>
 
-## Introduction
+## Introduction 
 ### This is the templates I use for my solutions, I have created this repository to keep track of my solutions and to share them with others. I will keep updating this repository with new templates as I learn through the computer science journey. I hope you learn something :).
 
 
@@ -18,6 +18,7 @@
 - [Problems by Templates](#problems-by-templates)
 - [Contributions](#contributions)
 - [Useful Resources](#useful-resources)
+- [Support](#support)
 
 <br/>
 
@@ -85,10 +86,10 @@
 
 
 
-<br/><br/>
-<p align="center">
-   	<b>
-		If you like it, give the <a href="https://github.com/sidi-maadh/MySolutions"> project repository</a>  a star on Github and 
-		share with your friends!! I will be happy with it! ❤️
-	</b>
-</p>
+<br/>
+
+## Support
+### If you like it, give the <a href="https://github.com/sidi-maadh/MySolutions"> project repository</a>  a star on Github and share with your friends!! I will be happy with it! ❤️
+
+
+
