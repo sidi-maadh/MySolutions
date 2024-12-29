@@ -29,6 +29,6 @@
 - [Is the string uppercase ?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b) ([ Solution ](is_the_string_uppercase.cpp))
 - [Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7) ([ Solution ](basic_mathematical_operations.cpp))
 - [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556) ([ Solution ](counting_sheep.cpp))
-- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
+- [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f) ([ Solution ](square(n)_sum.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
