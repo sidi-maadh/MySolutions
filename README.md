@@ -49,9 +49,10 @@
 
 
 ## Contributions
-<h4>  Contributions are welcome! Feel free to open an issue or submit a pull request if you have a way to improve this project. Make sure your request is meaningful and you have tested the app locally before submitting a pull request. 
-For more details on contribution, refer to </h4> [CONTRIBUTIONS.md](/CONTRIBUTIONS.md)
+<h4>  Contributions are welcome! Feel free to open an issue or submit a pull request if you have a way to improve this project. Make sure your request is meaningful and you have tested the app locally before submitting a pull request. <br/>
+For more details on contribution, refer to 👇 </h4> 
 
+[CONTRIBUTIONS.md](/CONTRIBUTIONS.md)
 
 <br/>
 
