@@ -95,7 +95,7 @@ This template brings together a diverse set of resources to improve your skills 
 
 ## Support
 <div align="center">
-<h3>If you like it, give the <a href="https://github.com/sidi-maadh/MySolutions"> project repository</a>  a ⭐ on Github and share with your friends!! </h3>
+<h4>If you like it, give the <a href="https://github.com/sidi-maadh/MySolutions"> project repository</a>  a ⭐ on Github and share with your friends!! </h4>
 
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCEFi0fMxf7g9QnEqdNG0i8Q?style=for-the-badge&logo=youtube&labelColor=red&link=https%3A%2F%2Fyoutube.com%2F%40chinguetech%3Fsi%3DwqajaclTrYqITcjQ)
