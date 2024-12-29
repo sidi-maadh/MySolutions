@@ -25,7 +25,7 @@
 - [All Star Code Challenge](https://www.codewars.com/kata/5865918c6b569962950002a1) ([ Solution ](all_star_code_challenge.cpp))
 - [Beginner Series](https://www.codewars.com/kata/55f9bca8ecaa9eac7100004a) ([ Solution ](beginner_series.cpp))
 - [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://www.codewars.com/kata/56efc695740d30f963000557) ([ Solution ](altERnaTIngcAsE.cpp))
-- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
+- [Will you make it ?](https://www.codewars.com/kata/5861d28f124b35723e00005e) ([ Solution ](will_you_make_it.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
