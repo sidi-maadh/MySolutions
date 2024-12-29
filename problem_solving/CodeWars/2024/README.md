@@ -27,6 +27,6 @@
 - [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](https://www.codewars.com/kata/56efc695740d30f963000557) ([ Solution ](altERnaTIngcAsE.cpp))
 - [Will you make it ?](https://www.codewars.com/kata/5861d28f124b35723e00005e) ([ Solution ](will_you_make_it.cpp))
 - [Is the string uppercase ?](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b) ([ Solution ](is_the_string_uppercase.cpp))
-- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
+- [Basic Mathematical Operations](https://www.codewars.com/kata/57356c55867b9b7a60000bd7) ([ Solution ](basic_mathematical_operations.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
 - [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
