@@ -16,4 +16,4 @@ For each puzzle, there is a directory `YYYY/Day DD`, where DD is number of the d
 
 | Year                                                | Status           | Progress    |     |
 | :-------------------------------------------------- | :--------------- | :---------- | :-- |
-| [2024](competitive_programming/Advent_of_Code/2024) | `not completed`  | 10/25 (40%) | ❌  |
+| [2024](2024) | `not completed`  | 10/25 (40%) | ❌  |
