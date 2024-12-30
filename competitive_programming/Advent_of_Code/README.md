@@ -12,5 +12,8 @@ For each edition I create a new folder with name `YYYY`, where YYYY is a specifi
 For each puzzle, there is a directory `YYYY/Day DD`, where DD is number of the day.
 
 
+## Progress
 
-
+| Year                                                             | Status           | Progress    |     |
+| :--------------------------------------------------------------- | :--------------- | :---------- | :-- |
+| [2024](https://github.com/ssynowiec/AdventOfCode/tree/main/2022) | `not completed`  | 10/25 (36%) | ❌  |
