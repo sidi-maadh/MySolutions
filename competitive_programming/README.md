@@ -1,9 +1,6 @@
 # Competitive Programming
 
-Competitive programming is a field that combines logic, algorithms, and quick problem-solving skills.  
-In this section, you’ll find my solutions to challenges from renowned platforms such as Codeforces, LeetCode, and AtCoder.  
-My goal is to share clear and efficient approaches to solving complex problems.
-
+Competitive programming is a field that combines logic, algorithms, and quick problem-solving skills.  In this section, you’ll find my solutions to challenges from renowned platforms such as Codeforces, LeetCode, and AtCoder.  My goal is to share clear and efficient approaches to solving complex problems.
 Whether you’re a beginner or an experienced programmer, I hope these solutions will inspire and guide you 😊
 
 
