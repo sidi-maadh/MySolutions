@@ -1,10 +1,6 @@
 # Problem Solving
 
-Problem solving is a key skill for tackling complex challenges in a creative and methodical way.  
-In this section, I share solutions to various problems often encountered in programming, logic, or optimization.
-
-Each problem comes with a detailed explanation to help you understand the thought process and techniques used.  
-This is an excellent way to develop analytical and critical thinking skills.
+Problem solving is a key skill for tackling complex challenges in a creative and methodical way.  In this section, I share solutions to various problems often encountered in programming, logic, or optimization.Each problem comes with a detailed explanation to help you understand the thought process and techniques used.  This is an excellent way to develop analytical and critical thinking skills.
 
 
 ## Platform Statistics
