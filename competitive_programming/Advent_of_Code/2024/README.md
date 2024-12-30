@@ -2,8 +2,6 @@
 
 ### [Advent of Code 2024](https://adventofcode.com/2024) 
 Completed: 10/25 (40%)
-<img align="right" src="https://i.ibb.co/9p2y4G0/adventofcode-2024.png"/>
-
 
 - ✅ [Day-01](https://adventofcode.com/2024/day/1) ([ Solution ](day-01.py)) ⭐⭐
 - ✅ [Day-02](https://adventofcode.com/2024/day/2) ([ Solution ](day-02.py)) ⭐⭐
@@ -30,3 +28,5 @@ Completed: 10/25 (40%)
 -   Day 23
 -   Day 24
 -   Day 25
+
+<img src="https://i.ibb.co/9p2y4G0/adventofcode-2024.png"/>
