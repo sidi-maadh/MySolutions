@@ -1,14 +1,21 @@
+# Competitive Programming
+
+Competitive programming is a field that combines logic, algorithms, and quick problem-solving skills.  
+In this section, you’ll find my solutions to challenges from renowned platforms such as Codeforces, LeetCode, and AtCoder.  
+My goal is to share clear and efficient approaches to solving complex problems.
+
+Whether you’re a beginner or an experienced programmer, I hope these solutions will inspire and guide you!
 
 
-<a href="https://codeforces.com/profile/sidi_maadh">
-<img src="https://img.shields.io/badge/codeforces-bleu?style=for-the-badge&logo=codeforces&logoColor=%23FFFFFF&logoSize=auto&color=%231F8ACB&link=https%3A%2F%2Fcodeforces.com%2Fprofile%2Fsidi_maadh"/></a>
-<a href="https://www.codechef.com/users/sidi_maadh">
-<img src="https://img.shields.io/badge/codechef-bleu?style=for-the-badge&logo=codechef&logoColor=%23FFFFFF&color=%235B4638&link=https%3A%2F%2Fwww.codechef.com%2Fusers%2Fsidi_maadh"/></a>
-<a href="https://profiles.topcoder.com/sidi_maadh">
-<img src="https://img.shields.io/badge/leetcode-bleu?style=for-the-badge&logo=leetcode&logoColor=%23FFFFFF&logoSize=auto&color=%23FFA116&link=https%3A%2F%2Fprofiles.topcoder.com%2Fsidi_maadh"/></a>
-<a href="https://profiles.topcoder.com/sidi_maadh">
-<img src="https://img.shields.io/badge/topcoder-bleu?style=for-the-badge&logo=topcoder&logoColor=%23FFFFFF&logoSize=auto&color=%2329A7DF&link=https%3A%2F%2Fprofiles.topcoder.com%2Fsidi_maadh"/></a>
-<a href="https://www.hackerrank.com/profile/sidi_maadh">
-<img src="https://img.shields.io/badge/hackerrank-bleu?style=for-the-badge&logo=hackerrank&logoColor=%23000000&link=https%3A%2F%2Fwww.hackerrank.com%2Fprofile%2Fsidi_maadh"/></a>
-<a href="https://github.com/sidi-maadh/MySolutions/tree/main/competitive_programming/Advent_of_Code">
-<img src="https://img.shields.io/badge/adventofcode-bleu?style=for-the-badge&logo=adventofcode&logoColor=%23FFFF66&logoSize=auto&color=%23000000&link=https%3A%2F%2Fgithub.com%2Fsidi-maadh%2FMySolutions%2Ftree%2Fmain%2Fcompetitive_programming%2FAdvent_of_Code"/></a>
+## Platform Statistics
+
+| Platform       | Problems Solved          | Rank / Level | Profile Link                                                                              |
+|----------------|--------------------------|--------------|-------------------------------------------------------------------------------------------|
+| *Codeforces*   |                          |              | [View Profile](https://codeforces.com/profile/sidi_maadh)                                 |
+| *LeetCode*     |                          |              | [View Profile](https://leetcode.com/sidi_maadh)                                           |
+| *AtCoder*      |                          |              | [View Profile](https://atcoder.jp/users/sidi_maadh)                                       |
+| *CodeChef*     |                          |              | [View Profile](https://www.codechef.com/users/sidi_maadh)                                 |
+| *TopCoder*     |                          |              | [View Profile](https://www.hackerrank.com/profile/sidi_maadh)                             |
+| *CodinGame*    |                          |              | [View Profile](https://www.codingame.com/profile/20c1d3e14b2cde7834dea80f22f406fa2977326) |
+| *HackerRank*   |                          |              | [View Profile](https://www.hackerrank.com/profile/sidi_maadh)                             |
+
