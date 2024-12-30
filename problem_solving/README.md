@@ -8,7 +8,7 @@ Problem solving is a key skill for tackling complex challenges in a creative and
 | Platform           | Problems Solved   | Rank / Level | Profile Link                                                      | My Solutions                         |
 |--------------------|-------------------|--------------|-------------------------------------------------------------------|--------------------------------------|
 | *CSES Problem Set* |                   |              | [View Profile](https://cses.fi/user/300386)                       | [CSES-Problem-Set](CSES-Problem-Set) |
-| *Codeforces*       |                   |              | [View Profile](https://codeforces.com/profile/sidi_maadh)         | [CodeForces](CodeForces)             |
+| *CodeForces*       |                   |              | [View Profile](https://codeforces.com/profile/sidi_maadh)         | [CodeForces](CodeForces)             |
 | *CodeWars*         |                   |              | [View Profile](https://www.codewars.com/users/sidi-maadh)         | [CodeWars](CodeWars)                 |
 | *CoderByte*        |                   |              | [View Profile](https://coderbyte.com/profile/SidiMaadh)           | [CoderByte](CoderByte)               |
 | *LeetCode*         |                   |              | [View Profile](https://leetcode.com/sidi_maadh)                   | [LeetCode](LeetCode)                 |
