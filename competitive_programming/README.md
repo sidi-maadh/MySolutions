@@ -10,13 +10,13 @@ Whether you’re a beginner or an experienced programmer, I hope these solutions
 
 ## Platform Statistics
 
-| Platform       | Problems Solved   | Rank / Level | Profile Link                                                                                | My Solutions             |
-|----------------|-------------------|--------------|---------------------------------------------------------------------------------------------|--------------------------|
-| *Codeforces*   |                   |              | [View Profile](https://codeforces.com/profile/sidi_maadh)                                   | [CodeForces](CodeForces) |
-| *LeetCode*     |                   |              | [View Profile](https://leetcode.com/sidi_maadh)                                             | [LeetCode](LeetCode)     |
-| *CodeChef*     |                   |              | [View Profile](https://www.codechef.com/users/sidi_maadh)                                   | [CodeChef](CodeChef)     |
-| *AtCoder*      |                   |              | [View Profile](https://atcoder.jp/users/sidi_maadh)                                         | [AtCoder](Contests/AtCode/)   |
-| *TopCoder*     |                   |              | [View Profile](https://profiles.topcoder.com/sidi_maadh)                                    | [TopCoder](TopCoder)     |
-| *CodinGame*    |                   |              | [View Profile](https://www.codingame.com/profile/20c1d3e14b2cde7834dea80f22f406fa2977326)   | [CodinGame](CodinGame)   |
-| *HackerRank*   |                   |              | [View Profile](https://www.hackerrank.com/profile/sidi_maadh)                               | [HackerRank](HackerRank) |
+| Platform       | Problems Solved   | Rank / Level | Profile Link                                                                              | My Solutions                    |
+|----------------|-------------------|--------------|-------------------------------------------------------------------------------------------|---------------------------------|
+| *Codeforces*   |                   |              | [View Profile](https://codeforces.com/profile/sidi_maadh)                                 |[CodeForces](Contests/CodeForces/)
+| *LeetCode*     |                   |              | [View Profile](https://leetcode.com/sidi_maadh)                                           | [LeetCode](Contests/LeetCode/)  |
+| *CodeChef*     |                   |              | [View Profile](https://www.codechef.com/users/sidi_maadh)                                 | [CodeChef](Contests/CodeChef/)  |
+| *AtCoder*      |                   |              | [View Profile](https://atcoder.jp/users/sidi_maadh)                                       | [AtCoder](Contests/AtCode/)     |
+| *TopCoder*     |                   |              | [View Profile](https://profiles.topcoder.com/sidi_maadh)                                  | [TopCoder](Contests/TopCoder)   |
+| *CodinGame*    |                   |              | [View Profile](https://www.codingame.com/profile/20c1d3e14b2cde7834dea80f22f406fa2977326) | [CodinGame](Contests/CodinGame/)|
+| *HackerRank*   |                   |              | [View Profile](https://www.hackerrank.com/profile/sidi_maadh)                             |[HackerRank](Contests/HackerRank/)
 
