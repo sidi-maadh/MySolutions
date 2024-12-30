@@ -29,4 +29,4 @@ Completed: 10/25 (40%)
 -   Day 24
 -   Day 25
 
-![Advent Of Code](https://i.ibb.co/9p2y4G0/adventofcode-2024.png)
+<img align="center" src="https://i.ibb.co/9p2y4G0/adventofcode-2024.png"/>
