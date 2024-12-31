@@ -5,9 +5,9 @@ Whether you’re a cybersecurity enthusiast or just curious about the field, thi
 
 ## Platform Statistics
 
-| Platform         | Challenges Solved           | Rank / Score          | Profile Link                                                  |
-|------------------|-----------------------------|-----------------------|---------------------------------------------------------------|
-| *Hack The Box*   | 0 challenges                | Hacker                | [View Profile](https://www.hackthebox.com/users/your_profile) |
-| *TryHackMe*      | 0 challenges                | Rank: Root            | [View Profile](https://tryhackme.com/p/your_profile)          |
-| *CTFtime*        | 0 challenges                | Score: 0 points       | [View Profile](https://ctftime.org/user/your_profile)         |
+| Platform         | Challenges Solved   | Rank / Score        | Profile Link                                                  | My Solutions                                     |
+|------------------|---------------------|---------------------|---------------------------------------------------------------|--------------------------------------------------|
+| *HackTheBox*     | 0 challenges        | Hacker              | [View Profile](https://www.hackthebox.com/users/your_profile) | [HackTheBox](/CTF-Training-Platforms/HackTheBox/) 
+| *TryHackMe*      | 0 challenges        | Rank: Root          | [View Profile](https://tryhackme.com/p/your_profile)          | [TryHackMe](/CTF-Training-Platforms/TryHackMe/)   
+| *CTFtime*        | 0 challenges        | Score: 0 points     | [View Profile](https://ctftime.org/user/your_profile)         | [ctftime](/CTF-Training-Platforms/ctftime/)   
 
