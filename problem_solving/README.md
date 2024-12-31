@@ -9,7 +9,7 @@ Problem solving is a key skill for tackling complex challenges in a creative and
 |--------------------|-------------------|--------------|-------------------------------------------------------------------|--------------------------------------|
 | *CSES Problem Set* |                   |              | [View Profile](https://cses.fi/user/300386)                       | [CSES-Problem-Set](CSES-Problem-Set) |
 | *CodeForces*       |                   |              | [View Profile](https://codeforces.com/profile/sidi_maadh)         | [CodeForces](CodeForces)             |
-| *CodeWars*         |       27          |    7 kyu     | [View Profile](https://www.codewars.com/users/sidi-maadh)         | [CodeWars](CodeWars)                 |
+| *CodeWars*         |       27          |    7 kyu     | [View Profile](https://www.codewars.com/users/sidi_maadh)         | [CodeWars](CodeWars)                 |
 | *CoderByte*        |                   |              | [View Profile](https://coderbyte.com/profile/SidiMaadh)           | [CoderByte](CoderByte)               |
 | *LeetCode*         |                   |              | [View Profile](https://leetcode.com/u/sidi_maadh/)                | [LeetCode](LeetCode)                 |
 | *NeetCode*         |                   |              | [View Profile](https://neetcode.io/)                              | [NeetCode](NeetCode)                 |
