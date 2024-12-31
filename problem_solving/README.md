@@ -11,7 +11,7 @@ Problem solving is a key skill for tackling complex challenges in a creative and
 | *CodeForces*       |                   |              | [View Profile](https://codeforces.com/profile/sidi_maadh)         | [CodeForces](CodeForces)             |
 | *CodeWars*         |       27          |    7 kyu     | [View Profile](https://www.codewars.com/users/sidi-maadh)         | [CodeWars](CodeWars)                 |
 | *CoderByte*        |                   |              | [View Profile](https://coderbyte.com/profile/SidiMaadh)           | [CoderByte](CoderByte)               |
-| *LeetCode*         |                   |              | [View Profile](https://leetcode.com/sidi_maadh)                   | [LeetCode](LeetCode)                 |
+| *LeetCode*         |                   |              | [View Profile](https://leetcode.com/u/sidi_maadh/)                | [LeetCode](LeetCode)                 |
 | *NeetCode*         |                   |              | [View Profile](https://neetcode.io/)                              | [NeetCode](NeetCode)                 |
 | *HackerRank*       |                   |              | [View Profile](https://www.hackerrank.com/profile/sidi_maadh)     | [HackerRank](HackerRank)             |
 | *Edabit*           |                   |              | [View Profile](https://edabit.com/user/6hBNhkzozeJEKrYBb)         | [Edabit](Edabit)                     |
