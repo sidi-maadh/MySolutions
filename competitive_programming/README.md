@@ -10,7 +10,7 @@ Whether you’re a beginner or an experienced programmer, I hope these solutions
 | Platform       | Problems Solved   | Rank / Level | Profile Link                                                                              | My Solutions                    |
 |----------------|-------------------|--------------|-------------------------------------------------------------------------------------------|---------------------------------|
 | *Codeforces*   |                   |              | [View Profile](https://codeforces.com/profile/sidi_maadh)                                 |[CodeForces](Contests/CodeForces/)
-| *LeetCode*     |                   |              | [View Profile](https://leetcode.com/sidi_maadh)                                           | [LeetCode](Contests/LeetCode/)  |
+| *LeetCode*     |                   |              | [View Profile](https://leetcode.com/u/sidi_maadh/)                                        | [LeetCode](Contests/LeetCode/)  |
 | *CodeChef*     |                   |              | [View Profile](https://www.codechef.com/users/sidi_maadh)                                 | [CodeChef](Contests/CodeChef/)  |
 | *AtCoder*      |                   |              | [View Profile](https://atcoder.jp/users/sidi_maadh)                                       | [AtCoder](Contests/AtCode/)     |
 | *TopCoder*     |                   |              | [View Profile](https://profiles.topcoder.com/sidi_maadh)                                  | [TopCoder](Contests/TopCoder/)  |
