@@ -2,5 +2,5 @@
 
 ### [NeetCode](https://neetcode.io/)
 
-- []() ([ Solution ](two_sum.py))
+- [Two Sum](https://neetcode.io/problems/two-integer-sum) ([ Solution ](two_sum.py))
 
