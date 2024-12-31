@@ -12,6 +12,6 @@ Problem solving is a key skill for tackling complex challenges in a creative and
 | *CodeWars*         |                   |              | [View Profile](https://www.codewars.com/users/sidi-maadh)         | [CodeWars](CodeWars)                 |
 | *CoderByte*        |                   |              | [View Profile](https://coderbyte.com/profile/SidiMaadh)           | [CoderByte](CoderByte)               |
 | *LeetCode*         |                   |              | [View Profile](https://leetcode.com/sidi_maadh)                   | [LeetCode](LeetCode)                 |
-| *NeetCode*         |                   |              | [View Profile](https://leetcode.com/sidi_maadh)                   | [NeetCode](NeetCode)                 |
+| *NeetCode*         |                   |              | [View Profile](https://neetcode.io/)                   | [NeetCode](NeetCode)                 |
 | *HackerRank*       |                   |              | [View Profile](https://www.hackerrank.com/profile/sidi_maadh)     | [HackerRank](HackerRank)             |
 | *Edabit*           |                   |              | [View Profile](https://edabit.com/user/6hBNhkzozeJEKrYBb)         | [Edabit](Edabit)                     |
