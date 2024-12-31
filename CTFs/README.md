@@ -7,9 +7,9 @@ Whether you’re a cybersecurity enthusiast or just curious about the field, thi
 
 | Platform         | Challenges Solved   | Rank / Score        | Profile Link                                                  | My Solutions                                     |
 |------------------|---------------------|---------------------|---------------------------------------------------------------|--------------------------------------------------|
-| *HackTheBox*     | 0 challenges        | Hacker              | [View Profile](https://www.hackthebox.com/users/sidiMaadh)    | [HackTheBox](CTF-Training-Platforms/HackTheBox/) 
-| *TryHackMe*      | 0 challenges        | Rank: Root          | [View Profile](https://tryhackme.com/p/your_profile)          | [TryHackMe](CTF-Training-Platforms/TryHackMe/)   
-| *CTFtime*        | 0 challenges        | Score: 0 points     | [View Profile](https://ctftime.org/user/your_profile)         | [ctftime](CTF-Training-Platforms/ctftime/)   
+| *HackTheBox*     | 0 challenges        | Hacker              | [View Profile](https://account.hackthebox.com/dashboard)      | [HackTheBox](CTF-Training-Platforms/HackTheBox/) 
+| *TryHackMe*      | 0 challenges        | Rank: Root          | [View Profile](https://tryhackme.com/r/p/SidiMaadh)           | [TryHackMe](CTF-Training-Platforms/TryHackMe/)   
+| *CTFtime*        | 0 challenges        | Score: 0 points     | [View Profile](https://ctftime.org/profile/sidichrifahdmaadh)         | [ctftime](CTF-Training-Platforms/ctftime/)   
 
 
 [Voir mon badge TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3994561)
