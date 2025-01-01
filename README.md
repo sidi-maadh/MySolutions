@@ -51,7 +51,7 @@
 ## Progress
 <h4> This section highlights my progress across different templates.  It provides a summary of the problems I've solved, challenges I've completed, and the ranks or milestones I've achieved.  Tracking progress not only helps me stay motivated but also allows visitors to see the consistency and growth in my learning journey.  Feel free to explore the detailed statistics and solutions for each template! </h4>
                                                                                
-|        Templates          |  Problems Solved / challenges completed |                   My Solutions                      |
+|        Templates          |  Problems Solved / challenges completed |                   Solution Link                     |
 |---------------------------|-----------------------------------------|-----------------------------------------------------|
 | *Problem Solving*         |                                         | [View Solution](/problem_solving)                   |
 | *Competitive Programming* |                                         | [View Solution](/competitive_programming)           |
