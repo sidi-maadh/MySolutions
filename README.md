@@ -47,6 +47,18 @@
 
 <br/>
 
+## Progress
+                                                                               
+|-----------------------------------------------------------------------------------------------------|
+|        Templates          |  Problems Solved  |                   My Solutions                      |
+|---------------------------|-------------------|-----------------------------------------------------|
+| *Problem Solving*         |                   | [Problem Solving](/problem_solving)                 |
+| *Competitive Programming* |                   | [Competitive Programming](/competitive_programming) |
+| *CTFs*                    |                   | [CTFs](/CTFs)                                       |
+| *Mathematics*             |                   | [Mathematics](/maths_exercices)                     |
+
+<br/>
+
 
 ## Contributions
 <h4>  Contributions are welcome! Feel free to open an issue or submit a pull request if you have a way to improve this project. Make sure your request is meaningful and you have tested the app locally before submitting a pull request. <br/>
