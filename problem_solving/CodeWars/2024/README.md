@@ -31,4 +31,3 @@
 - [Counting sheep...](https://www.codewars.com/kata/54edbc7200b811e956000556) ([ Solution ](counting_sheep.cpp))
 - [Square(n) Sum](https://www.codewars.com/kata/515e271a311df0350d00000f) ([ Solution ](square(n)_sum.cpp))
 - [Count Odd Numbers below n](https://www.codewars.com/kata/59342039eb450e39970000a6) ([ Solution ](count_odd_0umbers_below_n.cpp))
-- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
