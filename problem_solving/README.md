@@ -5,7 +5,7 @@ Problem solving is a key skill for tackling complex challenges in a creative and
 
 ## Platform Statistics
 
-| Platform           | Problems Solved   | Rank / Level | Profile Link                                                      | My Solutions                      |
+| Platform           | Problems Solved   | Rank / Level | Profile Link                                                      | Solution Link                    |
 |--------------------|-------------------|--------------|-------------------------------------------------------------------|-----------------------------------|
 | *CSES Problem Set* |                   |              | [View Profile](https://cses.fi/user/300386)                       | [View Solution](CSES-Problem-Set) |
 | *CodeForces*       |                   |              | [View Profile](https://codeforces.com/profile/sidi_maadh)         | [View Solution](CodeForces)       |
