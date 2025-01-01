@@ -5,11 +5,11 @@ Whether you’re a cybersecurity enthusiast or just curious about the field, thi
 
 ## Platform Statistics
 
-| Platform      | Challenges Solved | Rank / Score    | Profile Link                                                        | My Solutions                                     |
-|---------------|-------------------|-----------------|---------------------------------------------------------------------|--------------------------------------------------|
-| *HackTheBox*  | 0                 | Hacker          | [View Profile](https://account.hackthebox.com/dashboard/sidiMaadh)  | [HackTheBox](CTF-Training-Platforms/HackTheBox/) 
-| *TryHackMe*   | 0                 | Rank: Root      | [View Profile](https://tryhackme.com/r/p/SidiMaadh)                 | [TryHackMe](CTF-Training-Platforms/TryHackMe/)   
-| *CTFtime*     | 0                 | Score: 0 points | [View Profile](https://ctftime.org/profile/sidichrifahdmaadh)       | [ctftime](CTF-Training-Platforms/ctftime/)   
+| Platform      | Challenges Solved | Rank / Score    | Profile Link                                                        | Solution Link                                       |
+|---------------|-------------------|-----------------|---------------------------------------------------------------------|-----------------------------------------------------|
+| *HackTheBox*  | 0                 | Hacker          | [View Profile](https://account.hackthebox.com/dashboard/sidiMaadh)  | [View Solution](CTF-Training-Platforms/HackTheBox/) |
+| *TryHackMe*   | 0                 | Rank: Root      | [View Profile](https://tryhackme.com/r/p/SidiMaadh)                 | [View Solution](CTF-Training-Platforms/TryHackMe/)  |
+| *CTFtime*     | 0                 | Score: 0 points | [View Profile](https://ctftime.org/profile/sidichrifahdmaadh)       | [View Solution](CTF-Training-Platforms/ctftime/)    |
 
 
 - [See my badge TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3994561)
