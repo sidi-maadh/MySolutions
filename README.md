@@ -111,8 +111,7 @@ For more details on contribution, refer to 👇 </h4>
 <div align="center">
 <h4>If you like it, give the <a href="https://github.com/sidi-maadh/MySolutions"> project repository</a>  a ⭐ on Github and share with your friends! </h4>
 
-
-<a href="https://youtube/channel/subscribers/UCEFi0fMxf7g9QnEqdNG0i8Q">
+<a href="http://www.youtube.com/@ChingueTech">
 <img alt="Youtube Subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCEFi0fMxf7g9QnEqdNG0i8Q?style=for-the-badge&logo=youtube&logoColor=FFFFFF&labelColor=red&color=red&link=https%3A%2F%2Fyoutube.com%2F%40chinguetech%3Fsi%3DwqajaclTrYqITcjQ"/></a>
 
 <a href="https://github.com/sidi-maadh?tab=followers">
