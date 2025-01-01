@@ -49,13 +49,14 @@
 <br/>
 
 ## Progress
+<h4> This section highlights my progress across different templates.  It provides a summary of the problems I've solved, challenges I've completed, and the ranks or milestones I've achieved.  Tracking progress not only helps me stay motivated but also allows visitors to see the consistency and growth in my learning journey.  Feel free to explore the detailed statistics and solutions for each template! </h4>
                                                                                
-|        Templates          |  Problems Solved  |                   My Solutions                      |
-|---------------------------|-------------------|-----------------------------------------------------|
-| *Problem Solving*         |                   | [Problem Solving](/problem_solving)                 |
-| *Competitive Programming* |                   | [Competitive Programming](/competitive_programming) |
-| *CTFs*                    |                   | [CTFs](/CTFs)                                       |
-| *Mathematics*             |                   | [Mathematics](/maths_exercices)                     |
+|        Templates          |  Problems Solved / challenges completed |                   My Solutions                      |
+|---------------------------|-----------------------------------------|-----------------------------------------------------|
+| *Problem Solving*         |                                         | [Problem Solving](/problem_solving)                 |
+| *Competitive Programming* |                                         | [Competitive Programming](/competitive_programming) |
+| *CTFs*                    |                                         | [CTFs](/CTFs)                                       |
+| *Mathematics*             |                                         | [Mathematics](/maths_exercices)                     |
 
 <br/>
 
@@ -69,7 +70,7 @@ For more details on contribution, refer to 👇 </h4>
 <br/>
 
 ## Useful Resources
-<h4> This template brings together a diverse set of resources to improve your skills and knowledge in several areas. </h4> 
+<h4> This section brings together a diverse set of resources to improve your skills and knowledge in several areas. </h4> 
 
 ### <img src="https://img.icons8.com/?size=100&id=rM03addOSa95&format=png&color=000000" width=45px>  Algorithms and data structures
 - [Big-O Cheat Sheet](https://www.bigoheatsheet.com/)
