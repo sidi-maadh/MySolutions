@@ -53,10 +53,10 @@
                                                                                
 |        Templates          |  Problems Solved / challenges completed |                   My Solutions                      |
 |---------------------------|-----------------------------------------|-----------------------------------------------------|
-| *Problem Solving*         |                                         | [Problem Solving](/problem_solving)                 |
-| *Competitive Programming* |                                         | [Competitive Programming](/competitive_programming) |
-| *CTFs*                    |                                         | [CTFs](/CTFs)                                       |
-| *Mathematics*             |                                         | [Mathematics](/maths_exercices)                     |
+| *Problem Solving*         |                                         | [View Solution](/problem_solving)                   |
+| *Competitive Programming* |                                         | [View Solution](/competitive_programming)           |
+| *CTFs*                    |                                         | [View Solution](/CTFs)                              |
+| *Mathematics*             |                                         | [View Solution](/maths_exercices)                   |
 
 <br/>
 
