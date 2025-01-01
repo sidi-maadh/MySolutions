@@ -16,6 +16,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Problems by Templates](#problems-by-templates)
+- [Progress](#progress)
 - [Contributions](#contributions)
 - [Useful Resources](#useful-resources)
 - [Support](#support)
@@ -49,7 +50,6 @@
 
 ## Progress
                                                                                
-|-----------------------------------------------------------------------------------------------------|
 |        Templates          |  Problems Solved  |                   My Solutions                      |
 |---------------------------|-------------------|-----------------------------------------------------|
 | *Problem Solving*         |                   | [Problem Solving](/problem_solving)                 |
