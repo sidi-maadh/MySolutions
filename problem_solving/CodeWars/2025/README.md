@@ -2,6 +2,7 @@
 
 ### [CodeWars](https://codewars.com)
 
-- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
-- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
-- [](https://www.codewars.com/kata/) ([ Solution ](.cpp))
+
+|        Problem                              |              Problem Link                                               |                     Solution Link                   |
+|---------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------|
+| *Multiplication simple*                     | [View Problem](https://www.codewars.com/kata/583710ccaa6717322c000105)  | [View Solution](.cpp)          
