@@ -5,4 +5,7 @@
 
 |        Problem                              |              Problem Link                                               |                     Solution Link                   |
 |---------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------|
-| *Multiplication simple*                     | [View Problem](https://www.codewars.com/kata/583710ccaa6717322c000105)  | [View Solution](.cpp)          
+| *What's the real floor?*                    | [View Problem](https://www.codewars.com/kata/574b3b1599d8f897470018f6)  | [View Solution](what's_the_real_floor.cpp)      
+| *What's the real floor?*                    | [View Problem](https://www.codewars.com/kata/574b3b1599d8f897470018f6)  | [View Solution](what's_the_real_floor.cpp)      
+| *What's the real floor?*                    | [View Problem](https://www.codewars.com/kata/574b3b1599d8f897470018f6)  | [View Solution](what's_the_real_floor.cpp)      
+| *What's the real floor?*                    | [View Problem](https://www.codewars.com/kata/574b3b1599d8f897470018f6)  | [View Solution](what's_the_real_floor.cpp)      
