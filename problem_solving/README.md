@@ -5,11 +5,11 @@ Problem solving is a key skill for tackling complex challenges in a creative and
 
 ## Platform Statistics
 
-| Platform           | Problems Solved   | Rank / Level | Profile Link                                                      | Solution Link                    |
+| Platform           | Problems Solved   | Rank / Level | Profile Link                                                      | Solution Link                     |
 |--------------------|-------------------|--------------|-------------------------------------------------------------------|-----------------------------------|
 | *CSES Problem Set* |                   |              | [View Profile](https://cses.fi/user/300386)                       | [View Solution](CSES-Problem-Set) |
 | *CodeForces*       |                   |              | [View Profile](https://codeforces.com/profile/sidi_maadh)         | [View Solution](CodeForces)       |
-| *CodeWars*         |       27          |    7 kyu     | [View Profile](https://www.codewars.com/users/sidi_maadh)         | [View Solution](CodeWars)         |
+| *CodeWars*         |       32          |    7 kyu     | [View Profile](https://www.codewars.com/users/sidi_maadh)         | [View Solution](CodeWars)         |
 | *CoderByte*        |                   |              | [View Profile](https://coderbyte.com/profile/SidiMaadh)           | [View Solution](CoderByte)        |
 | *LeetCode*         |                   |              | [View Profile](https://leetcode.com/u/sidi_maadh/)                | [View Solution](LeetCode)         |
 | *NeetCode*         |                   |              | [View Profile](https://neetcode.io/)                              | [View Solution](NeetCode)         |
