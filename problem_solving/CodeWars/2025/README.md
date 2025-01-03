@@ -12,5 +12,5 @@
 | *Drink about*                               | [View Problem](https://www.codewars.com/kata/56170e844da7c6f647000063)  | [View Solution](drink_about.cpp)      
 | *Is he gonna survive ?*                     | [View Problem](https://www.codewars.com/kata/59ca8246d751df55cc00014c)  | [View Solution](is_he_gonna_survive.cpp)      
 | *Correct the mistakes of the character recognition software*  | [View Problem](https://www.codewars.com/kata/577bd026df78c19bca0002c0)  | [View Solution](correct_mistakes.cpp)  
-| *Swap Values*                               | [View Problem](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6)  | [View Solution](swap_values.cpp)      
+| *Rock Paper Scissors !*                     | [View Problem](https://www.codewars.com/kata/5672a98bdbdd995fad00000f)  | [View Solution](rock_paper_scissors.cpp)      
 | *Swap Values*                               | [View Problem](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6)  | [View Solution](swap_values.cpp)      
