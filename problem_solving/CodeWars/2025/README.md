@@ -18,7 +18,7 @@
 | *Get Nth Even Number*                       | [View Problem](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed)  | [View Solution](get_nth_even_number.cpp)      
 | *What is between ?*                         | [View Problem](https://www.codewars.com/kata/55ecd718f46fba02e5000029)  | [View Solution](what_is_between.cpp)      
 | *Abbreviate a Two Word Name*                | [View Problem](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)  | [View Solution](abbreviate_a_two_word_name.cpp)      
-| **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
+| *MakeUpperCase*                             | [View Problem](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)  | [View Solution](make_upper_case.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
