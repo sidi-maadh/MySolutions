@@ -18,6 +18,8 @@
 | *Get Nth Even Number*                       | [View Problem](https://www.codewars.com/kata/5933a1f8552bc2750a0000ed)  | [View Solution](get_nth_even_number.cpp)      
 | *What is between ?*                         | [View Problem](https://www.codewars.com/kata/55ecd718f46fba02e5000029)  | [View Solution](what_is_between.cpp)      
 | *Abbreviate a Two Word Name*                | [View Problem](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)  | [View Solution](abbreviate_a_two_word_name.cpp)      
-| *Swap Values*                               | [View Problem](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6)  | [View Solution](swap_values.cpp)      
-| *Swap Values*                               | [View Problem](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6)  | [View Solution](swap_values.cpp)      
-| *Swap Values*                               | [View Problem](https://www.codewars.com/kata/5388f0e00b24c5635e000fc6)  | [View Solution](swap_values.cpp)      
+| **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
+| **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
+| **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
+| **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
+  
