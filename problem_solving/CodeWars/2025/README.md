@@ -20,7 +20,7 @@
 | *Abbreviate a Two Word Name*                | [View Problem](https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3)  | [View Solution](abbreviate_a_two_word_name.cpp)      
 | *MakeUpperCase*                             | [View Problem](https://www.codewars.com/kata/57a0556c7cb1f31ab3000ad7)  | [View Solution](make_upper_case.cpp)      
 | *You only need one - Beginner*              | [View Problem](https://www.codewars.com/kata/57cc975ed542d3148f00015b)  | [View Solution](you_only_need_one-beginner.cpp)      
-| **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
+| *Switch it Up !*                            | [View Problem](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031)  | [View Solution](switch_it_up.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
