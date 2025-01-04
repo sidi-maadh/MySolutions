@@ -22,7 +22,7 @@
 | *You only need one - Beginner*              | [View Problem](https://www.codewars.com/kata/57cc975ed542d3148f00015b)  | [View Solution](you_only_need_one-beginner.cpp)      
 | *Switch it Up !*                            | [View Problem](https://www.codewars.com/kata/5808dcb8f0ed42ae34000031)  | [View Solution](switch_it_up.cpp)      
 | *Opposites Attract*                         | [View Problem](https://www.codewars.com/kata/555086d53eac039a2a000083)  | [View Solution](opposites_attract.cpp)      
-| **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
+| *Grasshopper - Terminal game move function* | [View Problem](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2)  | [View Solution](grasshopper-terminal_function.cpp)   
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
