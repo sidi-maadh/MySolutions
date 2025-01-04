@@ -8,6 +8,5 @@ std::string abbrevName(std::string name)
   result += ".";
   result += toupper( name[ name.find(" ") + 1 ] );
   
-  
   return result;
 }
