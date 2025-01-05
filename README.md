@@ -53,7 +53,7 @@
                                                                                
 |        Templates          |  Problems Solved / challenges completed |                   Solution Link                     |
 |---------------------------|-----------------------------------------|-----------------------------------------------------|
-| *Problem Solving*         |                   34                    | [View Solution](/problem_solving)                   |
+| *Problem Solving*         |                   52                    | [View Solution](/problem_solving)                   |
 | *Competitive Programming* |                    0                    | [View Solution](/competitive_programming)           |
 | *CTFs*                    |                    0                    | [View Solution](/CTFs)                              |
 | *Mathematics*             |                    0                    | [View Solution](/maths_exercices)                   |
