@@ -25,7 +25,7 @@
 | *Grasshopper - Terminal game move function* | [View Problem](https://www.codewars.com/kata/563a631f7cbbc236cf0000c2)  | [View Solution](grasshopper-terminal_function.cpp)   
 | *Sum of differences in array*               | [View Problem](https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e)  | [View Solution](sum_of_differences_in_array.cpp)     
 | *Grasshopper - Messi goals function*        | [View Problem](https://www.codewars.com/kata/55f73be6e12baaa5900000d4)  | [View Solution](grasshoppermessi_goals_function.cpp) 
-| **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
+| *Get Planet Name By ID*                     | [View Problem](https://www.codewars.com/kata/515e188a311df01cba000003)  | [View Solution](get_planet_Name_by_ID.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
