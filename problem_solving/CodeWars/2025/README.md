@@ -29,7 +29,7 @@
 | *Array plus array*                          | [View Problem](https://www.codewars.com/kata/5a2be17aee1aaefe2a000151)  | [View Solution](array_plus_array.cpp)      
 | *If you can't sleep, just count sheep!!*    |[View Problem](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)|[View Solution](if_you_can't_sleep_just_count_sheep.cpp) 
 | *The Feast of Many Beasts*                  | [View Problem](https://www.codewars.com/kata/5aa736a455f906981800360d)  | [View Solution](the_feast_of_many_beasts.cpp)      
-| **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
+| *Count the Monkeys !*                       | [View Problem](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)  | [View Solution](cunt_the_monkeys.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
