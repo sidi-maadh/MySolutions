@@ -2,4 +2,7 @@
 
 ### [LeetCode](https://leetcode.com)
 
-- [Two Sum](https://leetcode.com/problems/two-sum/) ([ Solution ](two_sum.py))
+|        Problem                              |              Problem Link                                               |                     Solution Link                   |
+|---------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------|
+| **                                   | [View Problem](https://leetcode.com/problems/-sum/)                  | [View Solution](.py)          
+| **                           | [View Problem](https://leetcode.com/problems/add-two-numbers/)          | [View Solution](.py)          
