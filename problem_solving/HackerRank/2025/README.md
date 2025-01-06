@@ -2,6 +2,7 @@
 
 ### [HackerRank](https://www.hackerrank.com/)
 
-- [Two Sum](https://leetcode.com/problems/two-sum/) ([ Solution ](two_sum.py))
-- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) ([ Solution ](add_two_numbers.py))
+|        Problem                              |              Problem Link                                               |                     Solution Link                   |
+|---------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------|
+| *Welcome to Java !*                         | [View Problem](https://www.hackerrank.com/challenges/welcome-to-java/)  | [View Solution](welcome_to_java.java)      
 
