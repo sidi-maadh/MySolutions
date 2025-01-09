@@ -31,7 +31,7 @@
 | *The Feast of Many Beasts*                  | [View Problem](https://www.codewars.com/kata/5aa736a455f906981800360d)  | [View Solution](the_feast_of_many_beasts.cpp)      
 | *Count the Monkeys !*                       | [View Problem](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7)  | [View Solution](cunt_the_monkeys.cpp)      
 | *Sum The Strings*                           | [View Problem](https://www.codewars.com/kata/5966e33c4e686b508700002d)  | [View Solution](sum_the_strings.cpp)      
-| **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
+| *Sum The Strings*                           | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
 | **                               | [View Problem](https://www.codewars.com/kata/)  | [View Solution](.cpp)      
