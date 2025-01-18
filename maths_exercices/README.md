@@ -6,8 +6,9 @@ I hope these solutions help you deepen your understanding of mathematics!
 
 ## Platform Statistics
 
-| Platform         | Problems Solved             | Rank / Score          | Profile Link                                |
-|------------------|-----------------------------|-----------------------|---------------------------------------------|
-| *Project Euler*  | 40                          | -                     | [View Profile](https://projecteuler.net/profile/your_profile) |
-| *Brilliant*      | N/A                         | -                     | [View Profile](https://brilliant.org/your_profile) |
+| Platform                   | Problems Solved             | Rank / Score          | Profile Link                                                  |
+|----------------------------|-----------------------------|-----------------------|---------------------------------------------------------------|
+| *Project Euler*            | 40                          | -                     | [View Profile](https://projecteuler.net/profile/your_profile) |
+| *Brilliant*                | N/A                         | -                     | [View Profile](https://brilliant.org/your_profile)            |
+| *Operations Research*      | N/A                         | -                     | [View Profile]() |
 
