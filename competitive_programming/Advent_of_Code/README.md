@@ -17,6 +17,6 @@ For each puzzle, there is a directory `YYYY/Day DD`, where DD is number of the d
 
 ## Progress
 
-| Year         | Status           | Progress    |     |
+| Year         | Status           | Progress    |   View Solution  |
 | :----------- | :--------------- | :---------- | :-- |
-| [2024](2024) | `not completed`  | 10/25 (40%) | ❌  |
+| [2024](2024) | `not completed`  | 10/25 (40%) | [View Solution](2024) |
